@@ -35,3 +35,6 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip
+
+*.csv
+kaggle/
